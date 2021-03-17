@@ -14,4 +14,4 @@ We use the the following formula in Excel to classify comments in negative or po
 
 We would like to apply ML algorithms to check if the criteria follwed to classify those Facebook comments was accurate and predict the nature of future comments.
 
-Since it is a Cuban poll, extracted comments are in Spanish language. So the exemples we will use to test our predictions will be in Spanish as well. Of course we will translate the exemples for our readers have proof of the accuracy of the algorithm.
+Since it is a Cuban poll, extracted comments are in Spanish language. So the examples we will use to test our predictions will be in Spanish as well. Of course we will translate the exemples for our readers have proof of the accuracy of the algorithm.
